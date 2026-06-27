@@ -1,0 +1,6 @@
+{
+  "name": "Shaheb Fruits",
+  "description": "A premium e-commerce Android application for Shaheb Fruit Company, featuring organic, fresh fruits, cart management, secure checkout, order tracking, and an admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
